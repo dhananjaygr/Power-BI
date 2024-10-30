@@ -24,4 +24,4 @@ Before accessing Power BI in CloudLabs, ensure you have the following prerequisi
 
    ![](./img/02.png)
 
-  >**Note:** We can customize the reports section as needed.
+  >**Note:** We can customize the reports section as needed with input from the development team.  
